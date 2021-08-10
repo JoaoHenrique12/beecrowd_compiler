@@ -4,3 +4,11 @@
   para usar esta belezinha vc so precisa de um doutorado em terminial linux. 
 
 ![hacker_boy](https://media.giphy.com/media/UFGj6EYw5JhMQ/giphy.gif) 
+
+## Como criar o diretorio com os arquivos para programacao
+
+```
+
+python3 main.py -id 1000 -language cpp
+
+```
