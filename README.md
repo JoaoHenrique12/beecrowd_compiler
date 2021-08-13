@@ -7,8 +7,19 @@
 
 ## Como criar o diretorio com os arquivos para programacao
 
+Linguagens aceitas:
+```
+Python3 - > py
+
+C++ - > cpp11 | cpp17
+
+C - > c
+
+```
+Exemplo
+
 ```
 
-python3 main.py -id 1000 -language cpp
+python3 main.py create -id 1000 -language cpp
 
 ```
